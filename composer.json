@@ -1,0 +1,25 @@
+{
+  "name": "qingbing/php-yac-doc",
+  "description": "php-yac-doc，Yac 缓存编码提示api文档",
+  "type": "library",
+  "license": "MIT",
+  "keywords": [
+    "php",
+    "yac",
+    "doc",
+    "php-yac",
+    "yac-api",
+    "document"
+  ],
+  "homepage": "http://www.phpcorner.net",
+  "authors": [
+    {
+      "name": "qingbing",
+      "email": "780042175@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {},
+  "autoload-dev": {},
+  "repositories": {}
+}
